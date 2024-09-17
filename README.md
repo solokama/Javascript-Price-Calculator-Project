@@ -1,0 +1,7 @@
+#Essays Price Calculator![System Interface - Copy](https://github.com/user-attachments/assets/9d2ae3af-f087-4981-99be-a263ff5a52f8)
+![System Interface 2](https://github.com/user-attachments/assets/ed3a1e41-b750-4a98-a9e0-21d611ba7c40)
+![System Interface](https://github.com/user-attachments/assets/b6f05bc1-ec56-4c74-a285-64884b7e2071)
+![Screenshot 2024-09-17 193955](https://github.com/user-attachments/assets/ae5d833d-e0e7-495f-8bb5-4b2726fda919)
+![Screenshot 2024-09-17 193934](https://github.com/user-attachments/assets/2b92f823-096f-45f9-818e-93c69c7b0a56)
+![Screenshootw](https://github.com/user-attachments/assets/96055507-01f8-4e43-8b46-71c14bbe85c3)
+![Project Interface](https://github.com/user-attachments/assets/0532345c-638c-41a0-9300-6eef4430143c)
